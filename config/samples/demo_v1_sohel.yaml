@@ -1,0 +1,8 @@
+apiVersion: demo.my.domain/v1
+kind: Sohel
+metadata:
+  name: sohel-sample
+spec:
+  # TODO(user): Add fields here
+  name: "my-custom-crd-resource"
+  size: 10
